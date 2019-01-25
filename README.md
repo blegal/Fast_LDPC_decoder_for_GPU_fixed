@@ -1,6 +1,6 @@
 # Fast_LDPC_decoder_for_GPU_fixed
 
-This repository contains source codes for research conducted a few years ago. The work carried out was focused on optimizing the implementation of a Min-Sum Offset LDPC decoder on a GPU target.
+This repository contains source codes for research conducted a few years ago. The work carried out was focused on optimizing the implementation of a Min-Sum Offset LDPC decoder on a GPU target. This implementation manages fixed-point information.
 
 More information on this work can be found here:
 
